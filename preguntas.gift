@@ -1,0 +1,37 @@
+// Categoría de preguntas
+$CATEGORY: Examen/Historia
+
+// Título de preguntas
+$QUESTIONTITLE: Preguntas de Historia
+
+// Pregunta 1
+::Pregunta 1:: ¿En qué año comenzó la Segunda Guerra Mundial?{
+    ~1939
+    ~1941
+    ~1945
+    ~1936
+}
+
+// Pregunta 2
+::Pregunta 2:: ¿Quién fue el primer presidente de los Estados Unidos?{
+    ~George Washington
+    ~Thomas Jefferson
+    ~Abraham Lincoln
+    ~John Adams
+}
+
+// Pregunta 3
+::Pregunta 3:: ¿Cuál fue el evento que marcó el inicio de la Revolución Francesa?{
+    ~La Toma de la Bastilla
+    ~La ejecución de Luis XVI
+    ~La Declaración de los Derechos del Hombre y del Ciudadano
+    ~La Batalla de Waterloo
+}
+
+// Pregunta 4
+::Pregunta 4:: ¿Quién escribió "Cien años de soledad"?{
+    ~Gabriel García Márquez
+    ~Pablo Neruda
+    ~Julio Cortázar
+    ~Mario Vargas Llosa
+}
